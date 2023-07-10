@@ -1,4 +1,4 @@
-# Play-the-bad-apple-on-Arduino-Udo-through-VGA
+# VGA on Uno
 
 
 i know there is a vga lib, but there was not enough memory space to play bad apple
